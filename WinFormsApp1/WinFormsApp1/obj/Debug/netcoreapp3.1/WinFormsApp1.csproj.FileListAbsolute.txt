@@ -1,0 +1,46 @@
+C:\Users\Giorgos Nik\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.exe
+C:\Users\Giorgos Nik\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.deps.json
+C:\Users\Giorgos Nik\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.json
+C:\Users\Giorgos Nik\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\Giorgos Nik\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.dll
+C:\Users\Giorgos Nik\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.pdb
+C:\Users\Giorgos Nik\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Giorgos Nik\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form2.resources
+C:\Users\Giorgos Nik\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Properties.Resources.resources
+C:\Users\Giorgos Nik\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Giorgos Nik\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giorgos Nik\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Giorgos Nik\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Giorgos Nik\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Giorgos Nik\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.dll
+C:\Users\Giorgos Nik\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.pdb
+C:\Users\Giorgos Nik\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Giorgos Nik\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+C:\Users\Giorgos Nik\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form3.resources
+C:\Users\Giorgos Nik\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form4.resources
+C:\Users\Giorgos Nik\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form5.resources
+C:\Users\Giorgos Nik\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form6.resources
+C:\Users\Giorgos Nik\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form7.resources
+C:\Users\Giorgos Nik\Desktop\Εργασιες Σχολη\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ ΥΠΟΛΟΓΙΣΤΗ_ΕΡΓΑΣΙΑ 1\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.exe
+C:\Users\Giorgos Nik\Desktop\Εργασιες Σχολη\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ ΥΠΟΛΟΓΙΣΤΗ_ΕΡΓΑΣΙΑ 1\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.deps.json
+C:\Users\Giorgos Nik\Desktop\Εργασιες Σχολη\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ ΥΠΟΛΟΓΙΣΤΗ_ΕΡΓΑΣΙΑ 1\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.json
+C:\Users\Giorgos Nik\Desktop\Εργασιες Σχολη\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ ΥΠΟΛΟΓΙΣΤΗ_ΕΡΓΑΣΙΑ 1\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\Giorgos Nik\Desktop\Εργασιες Σχολη\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ ΥΠΟΛΟΓΙΣΤΗ_ΕΡΓΑΣΙΑ 1\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.dll
+C:\Users\Giorgos Nik\Desktop\Εργασιες Σχολη\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ ΥΠΟΛΟΓΙΣΤΗ_ΕΡΓΑΣΙΑ 1\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.pdb
+C:\Users\Giorgos Nik\Desktop\Εργασιες Σχολη\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ ΥΠΟΛΟΓΙΣΤΗ_ΕΡΓΑΣΙΑ 1\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Giorgos Nik\Desktop\Εργασιες Σχολη\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ ΥΠΟΛΟΓΙΣΤΗ_ΕΡΓΑΣΙΑ 1\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+C:\Users\Giorgos Nik\Desktop\Εργασιες Σχολη\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ ΥΠΟΛΟΓΙΣΤΗ_ΕΡΓΑΣΙΑ 1\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form2.resources
+C:\Users\Giorgos Nik\Desktop\Εργασιες Σχολη\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ ΥΠΟΛΟΓΙΣΤΗ_ΕΡΓΑΣΙΑ 1\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form3.resources
+C:\Users\Giorgos Nik\Desktop\Εργασιες Σχολη\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ ΥΠΟΛΟΓΙΣΤΗ_ΕΡΓΑΣΙΑ 1\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form4.resources
+C:\Users\Giorgos Nik\Desktop\Εργασιες Σχολη\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ ΥΠΟΛΟΓΙΣΤΗ_ΕΡΓΑΣΙΑ 1\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form5.resources
+C:\Users\Giorgos Nik\Desktop\Εργασιες Σχολη\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ ΥΠΟΛΟΓΙΣΤΗ_ΕΡΓΑΣΙΑ 1\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form6.resources
+C:\Users\Giorgos Nik\Desktop\Εργασιες Σχολη\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ ΥΠΟΛΟΓΙΣΤΗ_ΕΡΓΑΣΙΑ 1\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form7.resources
+C:\Users\Giorgos Nik\Desktop\Εργασιες Σχολη\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ ΥΠΟΛΟΓΙΣΤΗ_ΕΡΓΑΣΙΑ 1\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Properties.Resources.resources
+C:\Users\Giorgos Nik\Desktop\Εργασιες Σχολη\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ ΥΠΟΛΟΓΙΣΤΗ_ΕΡΓΑΣΙΑ 1\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Giorgos Nik\Desktop\Εργασιες Σχολη\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ ΥΠΟΛΟΓΙΣΤΗ_ΕΡΓΑΣΙΑ 1\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giorgos Nik\Desktop\Εργασιες Σχολη\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ ΥΠΟΛΟΓΙΣΤΗ_ΕΡΓΑΣΙΑ 1\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Giorgos Nik\Desktop\Εργασιες Σχολη\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ ΥΠΟΛΟΓΙΣΤΗ_ΕΡΓΑΣΙΑ 1\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Giorgos Nik\Desktop\Εργασιες Σχολη\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ ΥΠΟΛΟΓΙΣΤΗ_ΕΡΓΑΣΙΑ 1\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Giorgos Nik\Desktop\Εργασιες Σχολη\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ ΥΠΟΛΟΓΙΣΤΗ_ΕΡΓΑΣΙΑ 1\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.dll
+C:\Users\Giorgos Nik\Desktop\Εργασιες Σχολη\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ ΥΠΟΛΟΓΙΣΤΗ_ΕΡΓΑΣΙΑ 1\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.pdb
+C:\Users\Giorgos Nik\Desktop\Εργασιες Σχολη\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ ΥΠΟΛΟΓΙΣΤΗ_ΕΡΓΑΣΙΑ 1\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.genruntimeconfig.cache
